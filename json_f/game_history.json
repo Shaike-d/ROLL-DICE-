@@ -1,0 +1,107 @@
+[
+    {
+        "player_name": "1",
+        "rounds": 1,
+        "player_score": 0,
+        "computer_score": 1,
+        "winner": "computer",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 2,
+                "computer_dice": 5,
+                "winner": "computer"
+            }
+        ]
+    },
+    {
+        "player_name": "1",
+        "rounds": 1,
+        "player_score": 0,
+        "computer_score": 1,
+        "winner": "computer",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 3,
+                "computer_dice": 5,
+                "winner": "computer"
+            }
+        ]
+    },
+    {
+        "player_name": "1",
+        "rounds": 1,
+        "player_score": 1,
+        "computer_score": 0,
+        "winner": "1",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 4,
+                "computer_dice": 2,
+                "winner": "1"
+            }
+        ]
+    },
+    {
+        "player_name": "1",
+        "rounds": 1,
+        "player_score": 0,
+        "computer_score": 1,
+        "winner": "computer",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 1,
+                "computer_dice": 5,
+                "winner": "computer"
+            }
+        ]
+    },
+    {
+        "player_name": "1",
+        "rounds": 1,
+        "player_score": 0,
+        "computer_score": 0,
+        "winner": "drow",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 3,
+                "computer_dice": 3,
+                "winner": "drow"
+            }
+        ]
+    },
+    {
+        "player_name": "1",
+        "rounds": 1,
+        "player_score": 1,
+        "computer_score": 0,
+        "winner": "1",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 5,
+                "computer_dice": 4,
+                "winner": "1"
+            }
+        ]
+    },
+    {
+        "player_name": "1",
+        "rounds": 1,
+        "player_score": 0,
+        "computer_score": 0,
+        "winner": "drow",
+        "results": [
+            {
+                "round": 1,
+                "player_dice": 4,
+                "computer_dice": 4,
+                "winner": "drow"
+            }
+        ]
+    }
+]
